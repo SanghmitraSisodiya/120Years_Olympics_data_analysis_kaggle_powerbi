@@ -3,19 +3,19 @@
 ### 📊 Data Analysis Project 📈 - by Sanghmitra Sisodiya [LinkedIn](https://in.linkedin.com/in/sanghmitra-sisodiya-229986173) | [Github](https://github.com/SanghmitraSisodiya) | [Live Dashboard](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
 ![Screenshot of Olympic Games.](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Olympic_flag.svg/2560px-Olympic_flag.svg.png)
 
-###[Data Source - Kaggle Data Sets](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
+### [Data Source - Kaggle Data Sets](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
 
-###[Link to Interactive Dashboard](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
+### [Link to Interactive Dashboard](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
 
 ## About the Dataset
-###Context
+### Context
 
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. Before uploading on Kaggle, this was scraped from www.sports-reference.com in May 2018. The R code was used to scrape and wrangle the data. 
 
 ## Objective 
 To understand and analyse about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
 
-###Content
+### Content
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
 ID - Unique number for each athlete

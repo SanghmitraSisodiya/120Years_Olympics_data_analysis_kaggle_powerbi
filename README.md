@@ -49,14 +49,14 @@ Event - Event
 Medal - Gold, Silver, Bronze, or NA
 
 ## Some Important Insights - 
-The first Event of the Olympics had no participation of female athletes. 
-The female participation increased significantly in late 1950's and saw big increase in 1980's.
-The participation rate of athletes keeps increasing in Winter games.
-1916, 1940 & 1944 summer Olympic games and 1940 & 1944 winter Olympic games didn't happen.
-World War was the reason for this.  
-Winter and Summer Games were held in the same year up until 1992. 
-Summer Games have more participations than Winter Games
-Hpwever, the rate of participation of athletes in Summer Games have become stagnant recently. 
+### The first Event of the Olympics had no participation of female athletes. 
+### The female participation increased significantly in late 1950's and saw big increase in 1980's.
+### The participation rate of athletes keeps increasing in Winter games.
+### 1916, 1940 & 1944 summer Olympic games and 1940 & 1944 winter Olympic games didn't happen.
+### World War was the reason for this.  
+### Winter and Summer Games were held in the same year up until 1992. 
+### Summer Games have more participations than Winter Games
+### However, the rate of participation of athletes in Summer Games have become stagnant recently. 
 
 
 ### Feel free to go through the dataset and project.

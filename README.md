@@ -59,7 +59,4 @@ Medal - Gold, Silver, Bronze, or NA
 ### 8. However, the rate of participation of athletes in Summer Games have become stagnant recently. 
 
 
-### Feel free to go through the dataset and project, and also connect with me on Linkedin or email me @sanghmitrasisodiya222gmail.com .
-
-
-
+### Feel free to go through the dataset and project, and also connect with me on [Linkedin](https://in.linkedin.com/in/sanghmitra-sisodiya-229986173) or [email me](@sanghmitrasisodiya222gmail.com)

@@ -19,33 +19,34 @@ To understand and analyse about how the Olympics have evolved over time, includi
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
 ID - Unique number for each athlete
+
 Name - Athlete's name
+
 Sex - M or F
+
 Age - Integer
+
 Height - In centimeters
+
 Weight - In kilograms
+
 Team - Team name
+
 NOC - National Olympic Committee 3-letter code
+
 Games - Year and season
+
 Year - Integer
+
 Season - Summer or Winter
+
 City - Host city
+
 Sport - Sport
+
 Event - Event
+
 Medal - Gold, Silver, Bronze, or NA
-Acknowledgements
-The Olympic data on www.sports-reference.com is the result of an incredible amount of research by a group of Olympic history enthusiasts and self-proclaimed 'statistorians'. Check out their blog for more information. All I did was consolidated their decades of work into a convenient format for data analysis.
-
-## Task List
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
-
-Create the metrics according to the metric list.
-Create a dashboard according to the mock-up provided by stakeholders.
-Create relevant insights that are not provided in the metric list/mock-up dashboard.
-Provided Mock-up Dashboard
-
-## Skills Learnt - 
-ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis, Power Query, Finding Insights, Storytelling through Data, Data Visualization
 
 ## Some Important Insights - 
 The first Event of the Olympics had no participation of female athletes. 
